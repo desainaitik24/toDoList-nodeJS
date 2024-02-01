@@ -1,4 +1,4 @@
-# To Do List using MongoDB
+# To Do List using Node JS
 
 run "npm install" and "node app.js"
 
